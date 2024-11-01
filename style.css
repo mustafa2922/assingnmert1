@@ -1,0 +1,50 @@
+.container{
+    margin: 20px auto;
+    width: 70%;
+    border: 2px double black;
+    background-color: white;
+    padding: 30px;
+}
+.heading{
+    margin: 40px auto;
+    width: fit-content;
+}
+.navbar{
+    border-top: 3px solid black;
+    padding: 5px;
+    border-bottom: 1px solid black;
+    margin: 10px auto;
+    width: 70%;
+}
+.tab{
+    display: inline-block;
+    margin: 15px auto;
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+    width: 18.8%;
+    letter-spacing: 2px;
+    cursor: pointer;
+    text-align: center;
+}
+.current{
+    color: rgb(165, 0, 0);
+}   
+.main{
+    margin: 10px auto;
+    width: 70%;
+}
+.main img{
+    width: 100%;
+    margin: 15px 0px;
+}
+.footer{
+    width: 70%;
+    text-align: center;
+    letter-spacing: 3px;
+    margin: 10px auto;
+    font-size: 22px;
+}
+body{
+    background-color: rgb(212, 212, 212);
+}
